@@ -4,8 +4,6 @@ I'm a freshman at Round Rock High School interested in robotics and software dev
 
 ## Skills
 
-## Skills
-
 **Languages:** Java, Python, C++, HTML, CSS
 
 **Tools:** Git, GitHub, VS Code, Android Studio, Onshape
